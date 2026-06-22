@@ -7,4 +7,5 @@ set terminal svg
 
 plot sin(x),atan(x)
 ```
-plot 
+## 2. 関数のプロット
+gluplot> 
