@@ -7,3 +7,4 @@ set terminal svg
 
 plot sin(x),atan(x)
 ```
+plot 
